@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DmnVC/GhQDGximf2ygMT28siQNfb6ypAUd2VxaC2KvnOkU0Oa9Db6LFKR3RNDLCZE9MUzlOZWSFGYS3sxkRxg==",
+  "success": true,
+  "projectFilePath": "D:\\MPHASIS PROJECTS\\Phase-4\\SchoolDataLibraryProject2P4\\SchoolDataLibraryProject2P4\\SchoolDataLibraryProject2P4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priye\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\priye\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\priye\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\priye\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

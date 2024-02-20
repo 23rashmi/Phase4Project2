@@ -1,0 +1,12 @@
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\bin\Debug\net6.0\SchoolDataLibraryProject2P4.deps.json
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\bin\Debug\net6.0\SchoolDataLibraryProject2P4.dll
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\bin\Debug\net6.0\SchoolDataLibraryProject2P4.pdb
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\SchoolDataLibraryProject2P4.csproj.AssemblyReference.cache
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\SchoolDataLibraryProject2P4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\SchoolDataLibraryProject2P4.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\SchoolDataLibraryProject2P4.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\SchoolDataLibraryProject2P4.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\SchoolDataLibraryProject2P4.dll
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\refint\SchoolDataLibraryProject2P4.dll
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\SchoolDataLibraryProject2P4.pdb
+D:\MPHASIS PROJECTS\Phase-4\SchoolDataLibraryProject2P4\SchoolDataLibraryProject2P4\obj\Debug\net6.0\ref\SchoolDataLibraryProject2P4.dll
